@@ -1,0 +1,65 @@
+div{
+    background-color: midnightblue;
+    width: 300px;
+    height: 580px;
+    border: 20px solid midnightblue;
+    margin: 165px;
+    padding: 10px;
+    border-radius: 30px;
+    margin-left: 700px;
+    
+    
+}
+h2 {
+    font-size: 20px;
+    color: white;
+    font-style: normal;
+    background-color: midnightblue;
+    
+    
+}
+h3{
+    font-size: 14px;
+    color: gray;
+    background-color: midnightblue;
+    
+}
+h4{
+    color: turquoise;
+    font-size: 15px;
+    background-color: midnightblue;
+    
+}
+
+id{
+    color:gray;
+    background-color: midnightblue;
+    
+}
+    
+
+p{
+  height: auto;
+  width: auto;
+  max-width: 40px;
+  max-height: 40px;
+  background-color: midnightblue;
+  
+}
+
+header{
+    color: gray;
+    background-color: midnightblue;
+}
+em{
+    color: ghostwhite;
+    background-color: midnightblue;
+}
+
+
+
+
+
+body{
+ background-color: indigo;  
+}
